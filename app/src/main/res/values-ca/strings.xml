@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Esdeveniments</string>
+    <string name="title_activity_main">Activitat principal</string>
+    <string name="main_tvDorsal">Dorsal-ca</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
